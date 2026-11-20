@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a dedicated BCA student at Narasingh Choudhury (Autonomous) <br>College, currently maintaining a 9.5 CGPA. I am passionate about <br>building scalable web applications and solving complex problems.<br><br>💻Core Expertise: C++, Data Structure & Algorithm (DSA).<br>🌐Focus: Full Stack Development (Frontend & Backend).<br>🍃Current Goal: Exploring internship opportunities to contribute and <br>      grow within the tech industry.
+I am a dedicated BCA student at Narasingh Choudhury (Autonomous) <br>College, currently maintaining a 9.17 CGPA. I am passionate about <br>building scalable web applications and solving complex problems.<br><br>💻Core Expertise: C++, Data Structure & Algorithm (DSA).<br>🌐Focus: Full Stack Development (Frontend & Backend).<br>🍃Current Goal: Exploring internship opportunities to contribute and <br>      grow within the tech industry.
 
 
 ## 🌐 Socials:
